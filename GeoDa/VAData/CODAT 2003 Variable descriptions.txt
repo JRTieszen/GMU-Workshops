@@ -1,7 +1,7 @@
 County Alcohol Data: BurkeyAcademy by Mark L. Burkey
 www.burkeyacademy.com
 This is some data from some studies I did on liquor demand using data from around 2003, looking at the states of Virginia and North Carolina. This data is related to, but not the same as data used on an NIH grant and published in a paper: 
-	Burkey, Mark L. ìGeographic Access and Demand in the Market for Alcohol,î The Review of Regional Studies, 40(2), Fall 2010, 159-179.  
+	Burkey, Mark L. ‚ÄúGeographic Access and Demand in the Market for Alcohol,‚Äù The Review of Regional Studies, 40(2), Fall 2010, 159-179.  
 The data here are by county, but in the paper I created "market areas" surrounding liquor stores. Warning: the data below is "pretty good", but is not documented/vetted well enough to be taken too seriously.
 Basic Variable Descriptions:
 Lon	Lat	  Longitude and Latitude of County Centroid
